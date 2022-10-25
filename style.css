@@ -1,0 +1,161 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Parisienne', cursive;
+    margin-top: 0;
+    font-size: 3em;
+    margin: 30px auto 0 auto;
+    color: #0e1f1f;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #434b4b;
+    font-weight: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #434b4b;
+}
+
+a {
+    color: #434b4b;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3232ce;
+}
+
+p {
+    font-family: 'Courgette', cursive;
+    line-height: 2;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.top-container {
+    height: 100%;
+    padding: 40px;
+    margin: auto;
+    padding-bottom: 300px;
+}
+
+.intro {
+    padding-top: 300px;
+}
+
+.Programmer {
+    position: absolute;
+    left: 10px;
+}
+
+.Computer {
+    position: absolute;
+    right: 10px;
+    top: 400px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.Profile {
+    width: 10%;
+}
+
+.Profile-disc {
+    margin: auto;
+    width: 50%;
+}
+
+.work-row {
+    position: relative;
+    width: 50%;
+    margin: auto;
+
+}
+
+.Work-Experience {
+    margin: auto;
+    width: 10%;
+    padding-bottom: 50px;
+}
+
+.Work-Disc {
+    margin: auto;
+    padding-top: 3px;
+    padding-bottom: 10px;
+}
+
+.skill-icon{
+    margin: auto;
+    width: 10%;
+}
+
+.skill-row {
+    position: relative;
+}
+
+.Skill-item {
+    position: absolute;
+    width: 4%;
+    left: 550px;
+    top: 20px; 
+}
+
+.Skill-disc {
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.job-interview {
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.copyright {
+    color: #000000;
+    font-size: 1em;
+    padding: 20px 0;
+}
