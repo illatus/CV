@@ -1,0 +1,176 @@
+/* General CSS Section */
+
+body {
+  font-family: "Merriweather", serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  max-width: 100%;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Navigation bar */
+
+.navbar-brand {
+  font-family: "Merriweather", serif;
+  font-weight: 800;
+  line-height: 1.5;
+  font-size: 2rem !important;
+  color: white;
+}
+
+.navbar-brand:hover {
+  color: azure;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+  padding: 2% 15%;
+}
+
+#title {
+  background-color: #116897;
+  color: white;
+  text-align: left;
+}
+
+.title-intro {
+  font-family: "Tangerine", cursive;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  padding: 10%;
+}
+
+.title-desc {
+  font-family: "Merriweather", serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5;
+  padding: 10%;
+}
+
+.title-programmer {
+  position: relative;
+  right: 70%;
+  bottom: 30%;
+}
+
+.title-computer {
+  position: relative;
+  right: 15%;
+  top: 10%;
+}
+
+.title-row {
+  text-align: center;
+}
+
+/* Introduction Section */
+
+#introduction {
+  background-color: #d8ebef;
+}
+
+.Profile {
+  width: 10%;
+  margin-bottom: 2%;
+}
+
+/* Work Experience */
+
+#work-experience {
+  background-color: #116897;
+  color: white;
+}
+
+#work-experience .container-fluid {
+  padding: 2% 12%;
+}
+
+.we-image {
+  width: 10%;
+  margin: 2% 0%;
+}
+
+.we-title {
+  margin: 2% 0%;
+}
+
+#work-experience .table {
+  color: white;
+}
+
+.table {
+  margin: auto;
+  width: 70% !important;
+  text-align: left;
+}
+
+/* Skills Section */
+
+#skills {
+  background-color: #d8ebef;
+}
+
+.skills-title {
+  margin: 0% 0% 2% 0%;
+}
+
+/* .carousel-inner {
+  width: 760px;
+  height: 420px;
+} */
+
+/* Contact Section */
+
+#contact-me {
+  background-color: #116897;
+  color: white;
+}
+
+#contact-me .container-fluid {
+  padding: 5% 12%;
+}
+
+.looking-job {
+  margin: 5%;
+  font-size: 2rem;
+}
+
+/* Footer Section */
+
+#footer {
+  background-color: #d8ebef;
+}
+
+#footer .container-fluid {
+  padding: 2% 12%;
+}
+
+.social-item {
+  margin: 20px 10px;
+}
+
+.copyright {
+  font-size: 1rem;
+}
+
+.footer-year {
+  font-size: 1rem;
+}
