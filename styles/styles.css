@@ -174,3 +174,33 @@ body {
 .footer-year {
   font-size: 1rem;
 }
+
+/* Mobile Responsive */
+
+@media (max-width: 1650px) {
+  .title-programmer {
+    position: static;
+    width: 120%;
+  }
+
+  .title-computer {
+    position: static;
+    width: 120%;
+  }
+
+  body {
+    font-size: 0.9rem;
+  }
+
+  .title-desc {
+    font-family: "Merriweather", serif;
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1.5;
+    padding: 10%;
+  }
+
+  .looking-job {
+    font-size: 1.2rem;
+  }
+}
